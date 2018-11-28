@@ -4,5 +4,5 @@
 
 | Description                              | File                                     |
 | ---------------------------------------- | ---------------------------------------- |
-| Depiction of the somitogenesis cycle: presomitic mesoderm and differentiated somites. Illustrates the relative somite numbering system. Example is for the chick embryo. | [somitogenesis01.svg](https://github.com/ramiromagno/artwork/blob/master/devbio/somitogenesis01.svg) |
+| Depiction of the somitogenesis cycle: presomitic mesoderm and differentiated somites. Illustrates the relative somite numbering system. Example is for the chick embryo. | [somitogenesis01.svg](https://raw.githubusercontent.com/ramiromagno/artwork/master/devbio/somitogenesis01.svg) |
 
